@@ -1,0 +1,35 @@
+h2 {
+    font-family:arial;
+}
+
+form {
+    display: inline-block;
+}
+
+
+.clearAll, .button {
+  display: inline-block;
+    height:20px;
+	width:auto;
+	background-color:#555555;
+	font-family:arial;
+	font-weight:bold;
+	color:#ffffff;
+	border-radius: 5px;
+	text-align:center;
+	margin-top:2px;
+  padding:5px;
+  cursor: pointer; 
+  cursor: hand;
+}
+
+#tdButton:hover {
+  background: #008CBA;
+ }
+ 
+
+
+.list {
+	font-family:arial;
+	color:#008CBA;
+}
